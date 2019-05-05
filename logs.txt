@@ -1,0 +1,4 @@
+1) achieved a maximum 36% val accuracy with 3 features (03/01/2019)
+2) added 2 more features (08/07/2019)
+
+3) avg pool and dense layer(right before the output layer) is fucking things up 

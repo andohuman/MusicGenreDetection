@@ -1,0 +1,8 @@
+logs/
+models/
+.ipynb_checkpoints/
+__pycache__
+fma_large/
+fma_metadata/
+fma_large.zip
+
